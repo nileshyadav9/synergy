@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 // GitHub Pages serves project sites from /<repo-name>/.
 // If you use a custom domain or a <user>.github.io repo, set base to "/".
 export default defineConfig({
-  base: "/Synergy/",
+  base: "/synergy/",
   plugins: [react()],
 });
